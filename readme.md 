@@ -1,0 +1,21 @@
+Hello Meggo, here are a couple commands I can help explain a little better 
+
+Git 
+
+To create a new Repository 
+1. git init
+2. hub create
+3. git add .
+4. git commit -m "whatever you wanna add"
+5.git push
+
+Navigating through terminal
+1. cd .. goes up a directory
+2. cd file_path
+3. code .       Opens up your IDE(Code editor)
+
+Parcel
+Link to docs: https://parceljs.org/getting_started.html
+1. yarn init -y   //Adds a package.json to your project
+2. Parcel watch index.html //Launches a live server for your project
+3. 
